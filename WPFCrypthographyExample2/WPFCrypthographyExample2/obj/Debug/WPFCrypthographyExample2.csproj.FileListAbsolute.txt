@@ -1,0 +1,14 @@
+C:\Users\Maxim\Desktop\WPFCrypthographyExample2\WPFCrypthographyExample2\bin\Debug\WPFCrypthographyExample2.exe.config
+C:\Users\Maxim\Desktop\WPFCrypthographyExample2\WPFCrypthographyExample2\bin\Debug\WPFCrypthographyExample2.exe
+C:\Users\Maxim\Desktop\WPFCrypthographyExample2\WPFCrypthographyExample2\bin\Debug\WPFCrypthographyExample2.pdb
+C:\Users\Maxim\Desktop\WPFCrypthographyExample2\WPFCrypthographyExample2\obj\Debug\WPFCrypthographyExample2.csprojResolveAssemblyReference.cache
+C:\Users\Maxim\Desktop\WPFCrypthographyExample2\WPFCrypthographyExample2\obj\Debug\MainWindow.g.cs
+C:\Users\Maxim\Desktop\WPFCrypthographyExample2\WPFCrypthographyExample2\obj\Debug\App.g.cs
+C:\Users\Maxim\Desktop\WPFCrypthographyExample2\WPFCrypthographyExample2\obj\Debug\WPFCrypthographyExample2_MarkupCompile.cache
+C:\Users\Maxim\Desktop\WPFCrypthographyExample2\WPFCrypthographyExample2\obj\Debug\WPFCrypthographyExample2_MarkupCompile.lref
+C:\Users\Maxim\Desktop\WPFCrypthographyExample2\WPFCrypthographyExample2\obj\Debug\MainWindow.baml
+C:\Users\Maxim\Desktop\WPFCrypthographyExample2\WPFCrypthographyExample2\obj\Debug\WPFCrypthographyExample2.g.resources
+C:\Users\Maxim\Desktop\WPFCrypthographyExample2\WPFCrypthographyExample2\obj\Debug\WPFCrypthographyExample2.Properties.Resources.resources
+C:\Users\Maxim\Desktop\WPFCrypthographyExample2\WPFCrypthographyExample2\obj\Debug\WPFCrypthographyExample2.csproj.GenerateResource.Cache
+C:\Users\Maxim\Desktop\WPFCrypthographyExample2\WPFCrypthographyExample2\obj\Debug\WPFCrypthographyExample2.exe
+C:\Users\Maxim\Desktop\WPFCrypthographyExample2\WPFCrypthographyExample2\obj\Debug\WPFCrypthographyExample2.pdb
